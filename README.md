@@ -18,3 +18,4 @@ Your feedback and contributions are always welcome!
 * [GetDrip](https://www.drip.com/) - Lightweight Email Automation platform for business.
 * [Intercom](https://www.intercom.com/) - Automation platform for sales, marketing, and support.
 * [Mautic](https://www.mautic.org/) - Open source marketing automation software available to businesses of all sizes.
+* [Altcraft](https://altcraft.com/) - Marketing Automation platform with both On-Premise and SaaS solutions that helps you scale up your business.
